@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.malta{
+  text-align: center!important;
+  justify-content: center!important;
+  color:thistle!important;
+  position:relative;
+}
+.malt{
+  position: sticky; 
+  bottom: 0; 
+  width:100%; 
+  text-align: center;
+  font-weight: 500;
+}
